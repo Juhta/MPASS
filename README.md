@@ -1,4 +1,4 @@
-# MPASS –Peruskoulun multipass -kirjautumisjärjestelmä
+# MPASS –Perusopetuksen multipass -kirjautumisjärjestelmä
 
 ##1. Palvelun kuvaus
 
