@@ -19,4 +19,5 @@ Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden 
 Linkit kehitysprojektien suunnitelmiin vaiheittain
 
 Vaihe I: 1.9. - 31.12.2015
+
 Vaihe II: 1.1.- 1.4.2015
