@@ -18,6 +18,6 @@ Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden 
 ##2. Vaiheet
 Linkit kehitysprojektien suunnitelmiin vaiheittain
 
-Vaihe I: 1.9. - 31.12.2015
+[Vaihe I: 1.9. - 31.12.2015](https://github.com/Digipalvelutehdas/MPASS/blob/master/Vaiheet/Vaihe1.md)
 
 Vaihe II: 1.1.- 1.4.2015
