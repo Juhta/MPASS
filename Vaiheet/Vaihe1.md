@@ -11,13 +11,13 @@ Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden 
 Projekti toteutetaan 9/2015-12/2015 välisenä aikana. Kesto yhteensä 4 kuukautta.
 
 ##2.2. Lopputulokset
-*Toteutussuunnitelma*
+**Toteutussuunnitelma**
 Projektin aikana CSC:n toteuttamasta kirjautumisratkaisusta tuotetaan kehittäjätyökalupaketti, jonka avulla erilaiset palvelun tarjoajat voivat sisällyttää MPASS-kirjautumisratkaisun omaan digitaaliseen oppimistuotteiseen. Oppilaitosten osalta MPASS-voidaan ottaa käyttöön niiden palveluiden osalta, jotka mahdollistavat kirjautumisen implementoinnin. 
 Projektin aikana testataan kirjautumisratkaisun ja sen käyttöön ottoa tukevan kehittäjätyökalupaketin toimivuutta. Kokeiluympäristöinä toimivat erilaiset peruskoulut ja palveluntarjoajat, jotka ovat kiinnostuneet kehittämään omia digitaalisia oppimistuotteita. Lisäksi MPASS-kirjautumisjärjestelmä toteutetaan osaksi EduCloudAlliancen digitaalisten oppimateriaalien kauppapaikan pilottia syksyllä 2015.
 Projektin ensimmäisen vaiheen aikana keskitytään lisäksi niihin ratkaisuihin, joissa toteutetaan kevyen tunnistautumisen ratkaisuja sekä etsitään pilottikohteita, joissa kirjautumisen tapa poikkeaisi normaalista käyttäjätunnus / salasana yhdistelmästä. 
-*Kirjautumisjärjestelmän tekninen ratkaisu ja SDK (CSC:ltä)*
-*Kilpailutus dokumentit* (Tarvittaessa)
-*Hankintapäätös* (Tarvittaessa)
+**Kirjautumisjärjestelmän tekninen ratkaisu ja SDK (CSC:ltä)**
+**Kilpailutus dokumentit** (Tarvittaessa)
+**Hankintapäätös** (Tarvittaessa)
    
 Kaikki tuotokset Githubissa, käytetään lähtökohtaisesti avointa lähdekoodia
 Projektin lopussa MPASS – on käytössä pilottiin osallistuneiden oppilaitosten digitaalisissa oppimistuotteissa ja osassa näistä oppimistuotteista on toteutettu kirjautumistapa, joka perustuu muuhun kuin käyttäjätunnus / salasana –yhdistelmään. 
@@ -29,14 +29,14 @@ Koska perus- ja toisen asteen oppilaitosten opiskelijoista suurin osa on alaikä
 
 ##2.4. Ratkottavat ongelmat ja tavoitteet
 
-*Keskeiset ratkottavat ongelmat ovat:*
+**Keskeiset ratkottavat ongelmat ovat:**
 - SDK:n tuottaminen siten että se vastaa oppilaitosten ja palvelun tarjoajien tarpeeseen
 - IdP-lähteiden hallinta pilotin ensimmäisen vaiheen aikana. 
 - Kirjoitustaidottomille suunnattujen kirjautumiskäytäntöjen kartoitus ja kokeilu
 - OID:n IdP-käyttöön liittyvien esteiden tai haasteiden kartoitus
-*Projektin keskeisimmät tavoitteet ovat:*
+**Projektin keskeisimmät tavoitteet ovat:**
 - MPASS-kirjautumisratkaisun jalkauttaminen mahdollisimman laajalle
- - MPASS-kirjautumisratkaisun helpon käyttöönoton ratkaisu
+- MPASS-kirjautumisratkaisun helpon käyttöönoton ratkaisu
 - Pilottikoulujen IdP-lähteiden hallinta*
     ...
 ##2.5. Projektin omistaja.
@@ -44,12 +44,13 @@ Koska perus- ja toisen asteen oppilaitosten opiskelijoista suurin osa on alaikä
     Projektipäällikkö: nimetään myöhemmin, vastaa läpiviennistä.
 
 ##2.7. Toteutuksen osapuolet
-    OKM/kopo
-    Asiakasedustaja: EduCloud Alliance
-    Asiakasedustaja: Koulu x
-    Asiakasedustaja: Koulu y
-    Asiakasedustaja: Yritys/yhdistys z
-    Toteuttava osapuoli: CSC
+- OKM/kopo
+- Asiakasedustaja: EduCloud Alliance
+- Asiakasedustaja: Koulu x
+- Asiakasedustaja: Koulu y
+- Asiakasedustaja: Yritys/yhdistys z
+- Toteuttava osapuoli: CSC
+
 #3. Toteutus
 
 ##3.1. Läpiviennin yleiset periaatteet
@@ -85,7 +86,7 @@ Vaihe tehdään 14.8.- 31.09.2015 välisenä aikana.
 Vaiheessa syntyvät tuotokset:
 
 ###3.3.5 Evaluointi ja jatkosta päättäminen
-    Lopputulos evaluoidaan yhdessä sidosryhmien (asiakasedustus, OKM edustus) kanssa 15.12.2015 mennessä. Evaluoinnin perusteella tuoteomistaja tekee päätöksen jatkotoimista. Mikäli kehittämistä päätetään jatkaa, tehdään seuraavan kehitysvaiheen suunnitteludokumentti 31.1.2016 mennessä valmiiksi.
+Lopputulos evaluoidaan yhdessä sidosryhmien (asiakasedustus, OKM edustus) kanssa 15.12.2015 mennessä. Evaluoinnin perusteella tuoteomistaja tekee päätöksen jatkotoimista. Mikäli kehittämistä päätetään jatkaa, tehdään seuraavan kehitysvaiheen suunnitteludokumentti 31.1.2016 mennessä valmiiksi.
 
 #4. Projektin organisointi
 
