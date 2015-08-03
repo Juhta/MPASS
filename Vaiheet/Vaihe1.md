@@ -38,7 +38,7 @@ Koska perus- ja toisen asteen oppilaitosten opiskelijoista suurin osa on alaikä
 - MPASS-kirjautumisratkaisun jalkauttaminen mahdollisimman laajalle
 - MPASS-kirjautumisratkaisun helpon käyttöönoton ratkaisu
 - Pilottikoulujen IdP-lähteiden hallinta*
-    ...
+- 
 ##2.5. Projektin omistaja.
     Tuotepäällikkö:  (OKM)
     Projektipäällikkö: nimetään myöhemmin, vastaa läpiviennistä.
