@@ -34,6 +34,7 @@ Koska perus- ja toisen asteen oppilaitosten opiskelijoista suurin osa on alaikä
 - IdP-lähteiden hallinta pilotin ensimmäisen vaiheen aikana. 
 - Kirjoitustaidottomille suunnattujen kirjautumiskäytäntöjen kartoitus ja kokeilu
 - OID:n IdP-käyttöön liittyvien esteiden tai haasteiden kartoitus
+
 **Projektin keskeisimmät tavoitteet ovat:**
 - MPASS-kirjautumisratkaisun jalkauttaminen mahdollisimman laajalle
 - MPASS-kirjautumisratkaisun helpon käyttöönoton ratkaisu
