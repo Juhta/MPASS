@@ -19,9 +19,9 @@ Projektin ensimmäisen vaiheen aikana keskitytään lisäksi niihin ratkaisuihin
 - **Kilpailutus dokumentit** (Tarvittaessa)
 - **Hankintapäätös** (Tarvittaessa)
    
-Kaikki tuotokset Githubissa, käytetään lähtökohtaisesti avointa lähdekoodia
-Projektin lopussa MPASS – on käytössä pilottiin osallistuneiden oppilaitosten digitaalisissa oppimistuotteissa ja osassa näistä oppimistuotteista on toteutettu kirjautumistapa, joka perustuu muuhun kuin käyttäjätunnus / salasana –yhdistelmään. 
-Sen lisäksi palveluntarjoajille ja oppilaitoksille tuotettu SDK on valmis.
+Kaikki tuotokset Githubissa, käytetään lähtökohtaisesti avointa lähdekoodia.
+
+Projektin lopussa MPASS – on käytössä pilottiin osallistuneiden oppilaitosten digitaalisissa oppimistuotteissa ja osassa näistä oppimistuotteista on toteutettu kirjautumistapa, joka perustuu muuhun kuin käyttäjätunnus / salasana –yhdistelmään. Sen lisäksi palveluntarjoajille ja oppilaitoksille tuotettu SDK on valmis.
 
 ##2.3. Projektin kuvaus ja kohde
 Suomen koulutusjärjestelmään kuuluvissa perus- ja toisen asteen oppilaitoksissa on käytössä laaja kirjo erilaisia järjestelmiä ja ohjelmistoja, jotka vaativat käyttäjältään kirjautumista. Käytännössä on muodostunut tilanne, jossa yksittäinen käyttäjä joutuu ylläpitämään useita erilaisia tunnuksia ja salasanoja.  Tilanne aiheuttaa perus- ja toisen asteen oppilaitoksissa ajallista resurssihukkaa, joka on pois opetukseen käytettävästä ajasta. Ongelma koskettaa noin 900 000 oppilasta sekä 100 000 henkilökuntaan laskettavaa henkilöä, jotka ovat jakautuneet useisiin satoihin kuntiin ja niissä edelleen tuhansiin oppilaitoksiin. Tilanteen ratkaisu toisi merkittävää parannusta digitaalisten oppimistuotteiden käyttökokemukseen sekä parantaisi resurssitehokkuutta oppilaitoksissa, joissa hyödynnetään digitaalisia oppimisjärjestelmiä tai oppimismateriaaleja. Yliopistoilla ja ammattikorkeakouluilla tilanne on ratkaistu jo pidemmän aikaa HAKA-luottamusverkostolla ja identiteettihallintakäytännöllä, jolloin yksittäisellä opiskelijalla on käytössään yksi käyttäjätunnus ja salasana, joka on käytössä kaikissa eri järjestelmissä. Viranomaisten järjestelmissä vastaava ratkaisu on ollut Virtu-tunnistautumisjärjestelmä.
