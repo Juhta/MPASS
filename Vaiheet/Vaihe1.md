@@ -15,9 +15,9 @@ Projekti toteutetaan 9/2015-12/2015 välisenä aikana. Kesto yhteensä 4 kuukaut
 Projektin aikana CSC:n toteuttamasta kirjautumisratkaisusta tuotetaan kehittäjätyökalupaketti, jonka avulla erilaiset palvelun tarjoajat voivat sisällyttää MPASS-kirjautumisratkaisun omaan digitaaliseen oppimistuotteiseen. Oppilaitosten osalta MPASS-voidaan ottaa käyttöön niiden palveluiden osalta, jotka mahdollistavat kirjautumisen implementoinnin. 
 Projektin aikana testataan kirjautumisratkaisun ja sen käyttöön ottoa tukevan kehittäjätyökalupaketin toimivuutta. Kokeiluympäristöinä toimivat erilaiset peruskoulut ja palveluntarjoajat, jotka ovat kiinnostuneet kehittämään omia digitaalisia oppimistuotteita. Lisäksi MPASS-kirjautumisjärjestelmä toteutetaan osaksi EduCloudAlliancen digitaalisten oppimateriaalien kauppapaikan pilottia syksyllä 2015.
 Projektin ensimmäisen vaiheen aikana keskitytään lisäksi niihin ratkaisuihin, joissa toteutetaan kevyen tunnistautumisen ratkaisuja sekä etsitään pilottikohteita, joissa kirjautumisen tapa poikkeaisi normaalista käyttäjätunnus / salasana yhdistelmästä. 
-**Kirjautumisjärjestelmän tekninen ratkaisu ja SDK (CSC:ltä)**
-**Kilpailutus dokumentit** (Tarvittaessa)
-**Hankintapäätös** (Tarvittaessa)
+- **Kirjautumisjärjestelmän tekninen ratkaisu ja SDK (CSC:ltä)**
+- **Kilpailutus dokumentit** (Tarvittaessa)
+- **Hankintapäätös** (Tarvittaessa)
    
 Kaikki tuotokset Githubissa, käytetään lähtökohtaisesti avointa lähdekoodia
 Projektin lopussa MPASS – on käytössä pilottiin osallistuneiden oppilaitosten digitaalisissa oppimistuotteissa ja osassa näistä oppimistuotteista on toteutettu kirjautumistapa, joka perustuu muuhun kuin käyttäjätunnus / salasana –yhdistelmään. 
