@@ -2,7 +2,7 @@
 
 ##1.1. Palvelun visio
 Tarkoituksena on luoda puitteet perusopetuksessa käytettävien digitaalisten oppimismateriaalien ja –ympäristöjen tunnistautumis- ja kirjautumiskäytännöille. Hankkeen tulokset mahdollistavat tilanteen, jossa perusopetuksessa oleva koululainen voi tietokoneelle kirjautumisen jälkeen käyttää yhdellä tunnuksella erilaisia digitaalisia oppimistuotteita. 
-Käytännössä koululainen voisi kirjautua olemassa olevilla tunnuksilla (esim. Wilma-tunnus) sellaisiin digitaalisiin oppimateriaalituotteisiin, joita ei ole vielä käyttänyt. Ratkaisun hyöty on kaksi suuntainen. Oppilaalle ja oppilaitoksille se tarkoittaa helpompaa ja nopeampaa tapaa ottaa käyttöön uudenlaisia materiaaleja tai ympäristöjä. Näiden materiaalien tai ympäristöjen tuottajille ratkaisu puolestaan mahdollistaa valmiin käyttäjäryhmän, joilla on oletuksena valmiiksi tunnukset uusiinkin tuotteisiin.
+Käytännössä koululainen voisi kirjautua olemassa olevilla tunnuksilla (esim. Wilma-tunnus) sellaisiin digitaalisiin oppimistuotteisiin, joita ei ole vielä käyttänyt. Ratkaisun hyöty on kaksisuuntainen. Oppilaalle ja oppilaitoksille se tarkoittaa helpompaa ja nopeampaa tapaa ottaa käyttöön uudenlaisia materiaaleja tai ympäristöjä. Edutech-alan palveluntarjoajille ratkaisu puolestaan mahdollistaa valmiin käyttäjäryhmän, joilla on oletuksena valmiiksi tunnukset uusiinkin tuotteisiin.
 Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden toteuttaa palveluihin kirjautuminen siten että se on yhteensopiva heti julkaisun jälkeen. Muita toimijoita voivat olla esimerkiksi muut peruskoululaisille palveluita tarjoavat viranomaiset tai kaupalliset toimijat. 
 
 #2. Projektin sisältö
