@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-new-100.png)
+
 # MPASS –Perusopetuksen multipass -kirjautumisjärjestelmä
 
 ##1. Palvelun kuvaus
