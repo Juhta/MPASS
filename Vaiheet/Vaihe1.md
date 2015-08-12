@@ -8,7 +8,7 @@ Edutech-alan palveluntarjoajille ratkaisu puolestaan mahdollistaa valmiin käytt
 
 #2. Projektin sisältö
 
-##2.1. Ajankohta ja kesto
+##2.1. Ajankohta ja kesto 
 Projekti toteutetaan 9/2015-12/2015 välisenä aikana. Kesto yhteensä 4 kuukautta.
 
 ##2.2. Lopputulokset
