@@ -1,9 +1,10 @@
 #1. MPASS - Palvelun kuvaus
 
-##1.1. Palvelun visio
-Tarkoituksena on luoda puitteet perusopetuksessa käytettävien digitaalisten oppimismateriaalien ja –ympäristöjen tunnistautumis- ja kirjautumiskäytännöille. Hankkeen tulokset mahdollistavat tilanteen, jossa perusopetuksessa oleva koululainen voi tietokoneelle kirjautumisen jälkeen käyttää yhdellä tunnuksella erilaisia digitaalisia oppimistuotteita. 
-Käytännössä koululainen voisi kirjautua olemassa olevilla tunnuksilla (esim. Wilma-tunnus) sellaisiin digitaalisiin oppimistuotteisiin, joita ei ole vielä käyttänyt. Ratkaisun hyöty on kaksisuuntainen. Oppilaalle ja oppilaitoksille se tarkoittaa helpompaa ja nopeampaa tapaa ottaa käyttöön uudenlaisia materiaaleja tai ympäristöjä. Edutech-alan palveluntarjoajille ratkaisu puolestaan mahdollistaa valmiin käyttäjäryhmän, joilla on oletuksena valmiiksi tunnukset uusiinkin tuotteisiin.
-Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden toteuttaa palveluihin kirjautuminen siten että se on yhteensopiva heti julkaisun jälkeen. Muita toimijoita voivat olla esimerkiksi muut peruskoululaisille palveluita tarjoavat viranomaiset tai kaupalliset toimijat. 
+##1.1. Tarkoituksena on luoda puitteet perusopetuksessa käytettävien digitaalisten oppimismateriaalien ja –ympäristöjen tunnistautumis- ja kirjautumiskäytännöille. Onnistuessaan hanke mahdollistaa tilanteen, jossa perusopetuksessa oleva koululainen voi tietokoneelle kirjautumisen jälkeen käyttää yhdellä kirjautumistunnuksella erilaisia digitaalisia oppimistuotteita.
+
+Käytännössä koululainen voisi kirjautua olemassa olevilla tunnuksilla (esim. FB/Twitter/Wilma/Helmi-tunnus) sellaisiin digitaalisiin oppimistuotteisiin, joita kyseisessä koulussa käytetään. Ratkaisun hyöty on kaksisuuntainen. Oppilaalle ja oppilaitoksille se tarkoittaa helpompaa ja nopeampaa tapaa ottaa käyttöön uudenlaisia materiaaleja tai ympäristöjä ilman tarvetta luoda uusia tunnuksia.
+
+Edutech-alan palveluntarjoajille ratkaisu puolestaan mahdollistaa valmiin käyttäjäryhmän, joilla on oletusarvoisesti yhteensopivat käyttäjätunnukset uusiinkin tuotteisiin. Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden toteuttaa palveluihin kirjautuminen siten että se on yhteensopiva heti julkaisun jälkeen. Muita toimijoita voivat olla esimerkiksi muut peruskoululaisille palveluita tarjoavat viranomaiset tai kaupalliset toimijat. 
 
 #2. Projektin sisältö
 
@@ -12,7 +13,7 @@ Projekti toteutetaan 9/2015-12/2015 välisenä aikana. Kesto yhteensä 4 kuukaut
 
 ##2.2. Lopputulokset
 **Toteutussuunnitelma**
-Projektin aikana CSC:n toteuttamasta kirjautumisratkaisusta tuotetaan kehittäjätyökalupaketti, jonka avulla erilaiset palvelun tarjoajat voivat sisällyttää MPASS-kirjautumisratkaisun omaan digitaaliseen oppimistuotteiseen. Oppilaitosten osalta MPASS-voidaan ottaa käyttöön niiden palveluiden osalta, jotka mahdollistavat kirjautumisen implementoinnin. 
+Hankkeen aikana CSC:n toteuttama kirjautumisjärjestelmä jalkautetaan perusopetukseen kuuluvien pilottioppilaitosten digitaalisiin oppimistuotteisiin. Pilotissa pyritään lisäksi helpottamaan kirjautumisen käyttöönottoa tuottamlla kirjautumisratkaisusta kehittäjätyökalupaketti tai muita käyttöönottoa helpottavia keinoja, jonka avulla erilaiset palvelun tarjoajat voivat sisällyttää MPASS-kirjautumisratkaisun omaan digitaaliseen oppimistuotteiseen. Oppilaitosten osalta MPASS-voidaan ottaa käyttöön niiden palveluiden osalta, jotka mahdollistavat kirjautumisen implementoinnin. 
 Projektin aikana testataan kirjautumisratkaisun ja sen käyttöön ottoa tukevan kehittäjätyökalupaketin toimivuutta. Kokeiluympäristöinä toimivat erilaiset peruskoulut ja palveluntarjoajat, jotka ovat kiinnostuneet kehittämään omia digitaalisia oppimistuotteita. Lisäksi MPASS-kirjautumisjärjestelmä toteutetaan osaksi EduCloudAlliancen digitaalisten oppimateriaalien kauppapaikan pilottia syksyllä 2015.
 Projektin ensimmäisen vaiheen aikana keskitytään lisäksi niihin ratkaisuihin, joissa toteutetaan kevyen tunnistautumisen ratkaisuja sekä etsitään pilottikohteita, joissa kirjautumisen tapa poikkeaisi normaalista käyttäjätunnus / salasana yhdistelmästä. 
 - **Kirjautumisjärjestelmän tekninen ratkaisu ja SDK (CSC:ltä)**
