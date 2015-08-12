@@ -1,6 +1,6 @@
 #1. MPASS - Palvelun kuvaus
 
-##1.1. Tarkoituksena on luoda puitteet perusopetuksessa käytettävien digitaalisten oppimismateriaalien ja –ympäristöjen tunnistautumis- ja kirjautumiskäytännöille. Onnistuessaan hanke mahdollistaa tilanteen, jossa perusopetuksessa oleva koululainen voi tietokoneelle kirjautumisen jälkeen käyttää yhdellä kirjautumistunnuksella erilaisia digitaalisia oppimistuotteita.
+1.1. Tarkoituksena on luoda puitteet perusopetuksessa käytettävien digitaalisten oppimismateriaalien ja –ympäristöjen tunnistautumis- ja kirjautumiskäytännöille. Onnistuessaan hanke mahdollistaa tilanteen, jossa perusopetuksessa oleva koululainen voi tietokoneelle kirjautumisen jälkeen käyttää yhdellä kirjautumistunnuksella erilaisia digitaalisia oppimistuotteita.
 
 Käytännössä koululainen voisi kirjautua olemassa olevilla tunnuksilla (esim. FB/Twitter/Wilma/Helmi-tunnus) sellaisiin digitaalisiin oppimistuotteisiin, joita kyseisessä koulussa käytetään. Ratkaisun hyöty on kaksisuuntainen. Oppilaalle ja oppilaitoksille se tarkoittaa helpompaa ja nopeampaa tapaa ottaa käyttöön uudenlaisia materiaaleja tai ympäristöjä ilman tarvetta luoda uusia tunnuksia.
 
