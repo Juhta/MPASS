@@ -4,7 +4,7 @@
 
 Käytännössä koululainen voisi kirjautua olemassa olevilla tunnuksilla (esim. FB/Twitter/Wilma/Helmi-tunnus) sellaisiin digitaalisiin oppimistuotteisiin, joita kyseisessä koulussa käytetään. Ratkaisun hyöty on kaksisuuntainen. Oppilaalle ja oppilaitoksille se tarkoittaa helpompaa ja nopeampaa tapaa ottaa käyttöön uudenlaisia materiaaleja tai ympäristöjä ilman tarvetta luoda uusia tunnuksia.
 
-Edutech-alan palveluntarjoajille ratkaisu puolestaan mahdollistaa valmiin käyttäjäryhmän, joilla on oletusarvoisesti yhteensopivat käyttäjätunnukset uusiinkin tuotteisiin. Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden toteuttaa palveluihin kirjautuminen siten että se on yhteensopiva heti julkaisun jälkeen. Muita toimijoita voivat olla esimerkiksi muut peruskoululaisille palveluita tarjoavat viranomaiset tai kaupalliset toimijat. 
+Edutech-alan palveluntarjoajille ratkaisu puolestaan mahdollistaa valmiin käyttäjäryhmän, joilla on oletusarvoisesti yhteensopivat käyttäjätunnukset uusiinkin tuotteisiin. Tunnistautumis- ja kirjautumisratkaisu mahdollistaa lisäksi muiden toimijoiden toteuttaa palveluihin kirjautuminen siten että se on yhteensopiva heti julkaisun jälkeen. Muita toimijoita voivat olla esimerkiksi muut peruskoululaisille palveluita tarjoavat viranomaiset tai kaupalliset toimijat.
 
 #2. Projektin sisältö
 
