@@ -77,16 +77,21 @@ Valmistumisaste 90%.
 
 ###3.3.2. Suunnitteluasiakirja
 Palvelun kehitysprojektin suunnittelu (tämän dokumentin laatiminen). Suunnitelma perustuu digikopo -ryhmän hyväksymään palvelun kehityscanvakseen. Tämän suunnitelman mukaisen kehityksen aloittamisesta päättää Digipalvelutehtaan ohjausryhmä kehittämispäällikön esityksestä. 
-    Vaihe valmistuu 14.8.2015 mennessä
+
+    Vaihe valmistuu 21.8.2015 mennessä
+    
 Vaiheessa syntyvät tuotokset:
     Toteutussuunnitelma
 
 ###3.3.3. Pilottikumppanien hankinta
 Palvelun testaamisessa mukana olevat oppilaitokset ja oppimistuotteiden tuottajat kerätään mukaan avoimella kutsulla keskeisten sosiaalisen median ympäristöjen sekä olemassa olevien muiden verkostojen välityksellä.  Mukana olevilta kumppaneilta kerätään tarpeita MPASS-kirjautumisen sekä sen mahdollistavan SDK:n toteuttamista varten. 
+
     Vaihe valmistuu 28.8.2015 mennessä
+    
 Vaiheessa syntyvät tuotokset:
 Luettelo kehittämistarpeista
 Luettelo mukana olevista tahoista
+
 ###3.3.4 Evaluointi ja jatkosta päättäminen
 Lopputulos evaluoidaan yhdessä sidosryhmien (asiakasedustus, OKM edustus) kanssa 15.12.2015 mennessä. Evaluoinnin perusteella tuoteomistaja tekee päätöksen jatkotoimista. Mikäli kehittämistä päätetään jatkaa, tehdään seuraavan kehitysvaiheen suunnitteludokumentti 31.1.2016 mennessä valmiiksi.
 
