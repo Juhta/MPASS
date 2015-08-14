@@ -86,7 +86,7 @@ Vaiheessa syntyvät tuotokset:
 ###3.3.3. Pilottikumppanien hankinta
 Palvelun testaamisessa mukana olevat oppilaitokset ja oppimistuotteiden tuottajat kerätään mukaan avoimella kutsulla keskeisten sosiaalisen median ympäristöjen sekä olemassa olevien muiden verkostojen välityksellä.  Mukana olevilta kumppaneilta kerätään tarpeita MPASS-kirjautumisen sekä sen mahdollistavan SDK:n toteuttamista varten. 
 
-    Vaihe valmistuu 28.8.2015 mennessä
+    Vaihe valmistuu 4.9.2015 mennessä
     
 Vaiheessa syntyvät tuotokset:
 Luettelo kehittämistarpeista
