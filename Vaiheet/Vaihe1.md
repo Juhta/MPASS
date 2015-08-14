@@ -12,12 +12,12 @@ MPASS-palvelu mahdollistaa myös edutech-sektorin ulkopuolisten toimijoiden saat
 Projekti toteutetaan 9/2015-12/2015 välisenä aikana. Kesto yhteensä 4 kuukautta.
 ##2.2. Lopputulokset
 
-**Toteutussuunnitelma**
+- **Toteutussuunnitelma**
 Ensimmäisen vaiheen aikana CSC:n toteuttama kirjautumisjärjestelmä jalkautetaan perusopetukseen kuuluvien pilottioppilaitosten digitaalisiin oppimistuotteisiin. Pilotissa pyritään lisäksi helpottamaan kirjautumisen käyttöönottoa tuottamalla kirjautumisratkaisusta kehittäjätyökalupaketti tai muita käyttöönottoa helpottavia keinoja, jonka avulla erilaiset palvelun tarjoajat voivat sisällyttää MPASS-kirjautumisratkaisun omaan digitaaliseen oppimistuotteiseen. Projektin aikana testataan kirjautumisratkaisun ja sen käyttöönottoa tukevan kehittäjätyökalupaketin toimivuutta.
 Kokeiluympäristöinä toimivat erilaiset peruskoulut sekä palveluntarjoajat, jotka ovat kiinnostuneet kehittämään omia digitaalisia oppimistuotteita. Lisäksi MPASS-kirjautumisjärjestelmä toteutetaan osaksi EduCloudAlliancen digitaalisten oppimateriaalien kauppapaikan pilottia syksyllä 2015.
 Projektin ensimmäisen vaiheen aikana keskitytään lisäksi niihin ratkaisuihin, joissa toteutetaan kevyen tunnistautumisen ratkaisuja sekä etsitään pilottikohteita, joissa kirjautumisen tapa poikkeaisi normaalista käyttäjätunnus / salasana yhdistelmästä. 
 
-**Käyttäjätarinat**
+- **Käyttäjätarinat**
 Kerätään sähköisellä järjestelmällä avoimesti alkusyksystä 2015. Käyttäjätarinoita haetaan olemassa olevien verkostojen kautta, mukaan lukien Facebook:n opetukseen liittyvät yhteisöt sekä mm. Opetushallituksen Majakka-verkosto. Käyttäjätarinoiden kautta hahmotetaan käytännön kehittämistarpeita tekniselle toteutukselle sekä käyttöliittymälle.
 
 - **Kirjautumisjärjestelmän tekninen ratkaisu ja dokumentaatio (CSC:ltä)**
