@@ -18,7 +18,7 @@ Ensimmäisen vaiheen aikana CSC:n toteuttama kirjautumisjärjestelmä jalkauteta
 Kokeiluympäristöinä toimivat erilaiset peruskoulut sekä palveluntarjoajat, jotka ovat kiinnostuneet kehittämään omia digitaalisia oppimistuotteita. Lisäksi MPASS-kirjautumisjärjestelmä toteutetaan osaksi EduCloudAlliancen digitaalisten oppimateriaalien kauppapaikan pilottia syksyllä 2015.
 Projektin ensimmäisen vaiheen aikana keskitytään lisäksi niihin ratkaisuihin, joissa toteutetaan kevyen tunnistautumisen ratkaisuja sekä etsitään pilottikohteita, joissa kirjautumisen tapa poikkeaisi normaalista käyttäjätunnus / salasana yhdistelmästä. 
 
-- **Käyttäjätarinat**
+- **Käyttäjätarinoiden ja pilottikohteiden kerääminen**
 Kerätään sähköisellä järjestelmällä avoimesti alkusyksystä 2015. Käyttäjätarinoita haetaan olemassa olevien verkostojen kautta, mukaan lukien Facebook:n opetukseen liittyvät yhteisöt sekä mm. Opetushallituksen Majakka-verkosto. Käyttäjätarinoiden kautta hahmotetaan käytännön kehittämistarpeita tekniselle toteutukselle sekä käyttöliittymälle.
 
 - **Kirjautumisjärjestelmän tekninen ratkaisu ja dokumentaatio (CSC:ltä)**
@@ -26,7 +26,9 @@ MPASS-palvelu ja sitä koskeva dokumentaatio asetetaan Githubiin sen asennusta t
 
 - **Kilpailutus dokumentit** (Tarvittaessa)
 - **Hankintapäätös** (Tarvittaessa)
-Projektin lopussa MPASS – on käytössä pilottiin osallistuneiden oppilaitosten digitaalisissa oppimistuotteissa ja osassa näistä oppimistuotteista on toteutettu kirjautumistapa, joka perustuu muuhun kuin käyttäjätunnus / salasana –yhdistelmään. Sen lisäksi palveluntarjoajille ja oppilaitoksille tuotettu SDK on valmis.
+
+- **Palvelun jalkautus oppilaitoksiin**
+Hankkeen 1. vaiheen aikana MPASS-palvelu integroidaan perusopetuksessa käytössä oleviin oppimisen- tai sisällönhallintajärjestelmiin. Pilotoinnissa mukana olevat koulut haetaan olemassa olevista verkostoista. Oppilaitosten lisäksi etsitään palvelun tarjoajaa testaamaan MPASS-palvelun integroimista heidän olemassa olevaan palveluun tai rakenteilla olevaan palveluun. Projektin lopussa MPASS – on käytössä pilottiin osallistuneiden oppilaitosten digitaalisissa oppimistuotteissa ja osassa näistä oppimistuotteista on toteutettu kirjautumistapa, joka perustuu muuhun kuin käyttäjätunnus / salasana –yhdistelmään. 
 
 ##2.3. Projektin kuvaus ja kohde
 Suomen koulutusjärjestelmään kuuluvissa perus- ja toisen asteen oppilaitoksissa on käytössä laaja kirjo erilaisia järjestelmiä ja ohjelmistoja, jotka vaativat käyttäjältään kirjautumista. Käytännössä on muodostunut tilanne, jossa yksittäinen käyttäjä joutuu ylläpitämään useita erilaisia tunnuksia ja salasanoja.  Tilanne aiheuttaa perus- ja toisen asteen oppilaitoksissa ajallista resurssihukkaa, joka on pois opetukseen käytettävästä ajasta. Ongelma koskettaa noin 550 000 oppilasta sekä 100 000 henkilökuntaan laskettavaa henkilöä, jotka ovat jakautuneet useisiin satoihin kuntiin ja niissä edelleen tuhansiin oppilaitoksiin. Tilanteen ratkaisu toisi merkittävää parannusta digitaalisten oppimistuotteiden käyttökokemukseen sekä parantaisi resurssitehokkuutta oppilaitoksissa, joissa hyödynnetään digitaalisia oppimisjärjestelmiä tai oppimismateriaaleja. Yliopistoilla ja ammattikorkeakouluilla tilanne on ratkaistu jo pidemmän aikaa HAKA-luottamusverkostolla ja identiteettihallintakäytännöllä, jolloin yksittäisellä opiskelijalla on käytössään yksi käyttäjätunnus ja salasana, joka on käytössä kaikissa eri järjestelmissä. Viranomaisten järjestelmissä vastaava ratkaisu on ollut Virtu-tunnistautumisjärjestelmä.
