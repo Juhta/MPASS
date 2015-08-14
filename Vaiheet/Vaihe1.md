@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-new-100.png)
 #1. MPASS - Palvelun kuvaus
 
 ##1.1. Palvelun visio
