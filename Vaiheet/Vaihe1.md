@@ -61,10 +61,7 @@ Projektipäällikkö: nimetään myöhemmin, vastaa läpiviennistä.
 #3. Toteutus
 
 ##3.1. Läpiviennin yleiset periaatteet
-    Miten kytkeytyy isoon kuvaan OKM ja valtion tasolla?
-    - Lainmuutoksia vaativat asiat, Seuraavassa vaiheessa yhteys OID:n teknisellä tasolla
-    Miten varmistetaan tiedonkulku muiden hankkeiden suuntaan?
-    Yhteistyön kuvaaminen, miten siilot rikotaan?
+Pilotti tehdään ketterän kehittämisen menetelmillä yhteistyöverkoston kesken yli hallintokuntien tai muiden toimijoiden rajojen. Loppukäyttäjäosapuolten osallistuminen kehittämiseen otetaan etusijalle ja hankkeen viestinnässä korostetaan avoimuutta, läpinäkyvyyttä ja helppoa lähestyttävyyttä. Hankkeen ensimmäisessä vaiheessa pyritään teknisen ratkaisun jalkauttamiseen ja MPASS-palvelun iteratiiviseen kehittämiseen pilottiosapuolilta saadun palautteen mukaisesti.  Sen lisäksi valmistellaan mm. lakimuutoksia vaativilta osilta toimenpiteitä seuraavia vaiheita varten. 
 
 ##3.2. Aikataulu ja vaiheistus
 Kehitysprojektin tämä vaihe toteutetaan 10/2015 - 12/2015. Keväällä 2016 vaihe 2.
